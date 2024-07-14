@@ -45,4 +45,9 @@
    ```sh
    npm start
 
+### Usage:
+- Open your browser and navigate to 'http://localhost:3000'.
+- Register or log in to start chatting with other users.
+
+
 
