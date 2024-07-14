@@ -1,6 +1,6 @@
 # Interactive Chat Application
 
-## Features
+## Features:-
 
 ### Modern and Responsive User Interface
 - Developed using **ReactJS** for dynamic and seamless user experience.
