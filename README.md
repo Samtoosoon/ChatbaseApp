@@ -36,3 +36,13 @@
    ```sh
    git clone https://github.com/yourusername/interactive-chat-app.git
    cd interactive-chat-app
+
+2. **Install dependencies:**:
+   ```sh
+   npm install
+
+3. **Run the application:**:
+   ```sh
+   npm start
+
+
