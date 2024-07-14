@@ -34,8 +34,8 @@
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/yourusername/interactive-chat-app.git
-   cd interactive-chat-app
+   git clone https://github.com/yourusername/ChatbaseApp.git
+   cd ChatbaseApp
 
 2. **Install dependencies:**:
    ```sh
