@@ -46,6 +46,8 @@
    npm start
 
 ### Usage:
+-Deployed on vercel
+https://chatme-sooty.vercel.app/
 - Open your browser and navigate to 'http://localhost:3000'.
 - Register or log in to start chatting with other users.
 
